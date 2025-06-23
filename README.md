@@ -139,6 +139,8 @@
     <li><a href="#contact">Contact</a></li>
     <li>
       <a href="Updated Cv 2025 1.pdf" class="download-btn" download>Download CV</a>
+      <a href="https://drive.google.com/file/d/1xdbGHI9c4o1_1iYCOb0sb7zdtNf9RF-3/view?usp=drive_link" ...>
+
     </li>
   </ul>
 </nav>
