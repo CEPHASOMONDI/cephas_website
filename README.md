@@ -1,5 +1,5 @@
 # cephas_website
-My Portfolio and Summary
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
