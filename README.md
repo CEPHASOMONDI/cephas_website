@@ -145,7 +145,7 @@ My Portfolio and Summary
 
 <!-- Header -->
 <header>
-  <img src="your-photo.jpg" alt="Cephas Omondi" class="profile-pic" />
+  <img src="cephas_omondi.jpg" alt="Cephas Omondi" class="profile-pic" />
   <h2>Health Records and Information Manager</h2>
 </header>
 
