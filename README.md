@@ -138,7 +138,7 @@
     <li><a href="#skills">Skills</a></li>
     <li><a href="#contact">Contact</a></li>
     <li>
-      <a href="Cephas_Omondi_CV.pdf/Updated Cv 2025 1.pdf updated cv 2025 1.pdf" class="download-btn" download>Download CV</a>
+      <a href="Updated Cv 2025 1.pdf" class="download-btn" download>Download CV</a>
     </li>
   </ul>
 </nav>
